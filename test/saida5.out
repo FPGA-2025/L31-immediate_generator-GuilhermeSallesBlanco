@@ -1,0 +1,10 @@
+VCD info: dumpfile saida.vcd opened for output.
+=== OK  [0] opcode=13 func3=5 instr=01405013 immediate=00000014 (esperado)
+=== OK  [1] opcode=13 func3=5 instr=00e05013 immediate=0000000e (esperado)
+=== OK  [2] opcode=13 func3=5 instr=01c05013 immediate=0000001c (esperado)
+=== OK  [3] opcode=13 func3=5 instr=01805013 immediate=00000018 (esperado)
+=== OK  [4] opcode=13 func3=5 instr=01105013 immediate=00000011 (esperado)
+=== OK  [5] opcode=13 func3=5 instr=01d05013 immediate=0000001d (esperado)
+=== OK  [6] opcode=13 func3=5 instr=01a05013 immediate=0000001a (esperado)
+=== OK  [7] opcode=13 func3=5 instr=00105013 immediate=00000001 (esperado)
+tb.v:41: $finish called at 8000 (1ps)
